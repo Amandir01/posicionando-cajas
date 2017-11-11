@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  width: 100%;
+}
+
+#bigone {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  position: absolute;
+}
+.seconda {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  margin: 100px;
+  position: absolute;
+
+}
+.secondb {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  position:absolute;
+}

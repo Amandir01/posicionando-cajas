@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  margin: 90px;
+  font-size: 60px;
+}
+li {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 40px;
+  display: inline-block;
+  margin: 50px;
+  height:100px;
+  width: 300px;
+  background-color: green;
+
+}
+li a{
+  color: white;
+  text-decoration: none;
+  font-style: italic;
+}

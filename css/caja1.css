@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+#bigone {
+  background-color: red;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+}
+.secondbox {
+  background-color: purple;
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  position: relative;
+}
+.thirdbox {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
